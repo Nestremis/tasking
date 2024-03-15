@@ -2,7 +2,7 @@ footer {
     display: flex;
     align-items: center;
     justify-content: center;
-    min-height: 6vh;
+    min-height: 6vmin;
     color: #d4d4d44d;
     background: linear-gradient(180deg, #36454f 0%, #000000 100%);
     border-top-right-radius: 5px;

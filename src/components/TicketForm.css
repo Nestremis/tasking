@@ -6,12 +6,11 @@
     margin: 5px;
     border-radius: 8px;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
     flex-direction: row;
     align-items: center;
     width: 90vw;
     min-height: 10vh;
-    color: white;
     box-shadow: 3px 3px 6px 1px #232323;
 
     @media screen and (max-width: 900px) {
@@ -25,7 +24,7 @@
     border-radius: 8px;
     min-height: calc(25px + 1vmin);
     min-width: calc(30px + 12vmin);
-    background-color: #f0eadc;
+    background-color: whitesmoke;
     box-shadow: inset 1px 1px 4px 1px #232323;
     font-size: calc(15px + 0.5vmin);
     margin: 15px 15px;
@@ -33,7 +32,7 @@
 #placeholder:focus{
     outline: none;
     color:darkslategray;
-    background-color: #e5d9bb;
+    background-color: white;
 }
 
 
@@ -52,7 +51,7 @@
     border-radius: 8px;
     min-height: 2vh;
     min-width: 170px;
-    background-color: #f0eadc;
+    background-color: whitesmoke;
     box-shadow: inset 1px 1px 4px 1px #232323;
     margin: 2px;
 }
@@ -67,7 +66,7 @@
     font-size: calc(10px + 1vmin);
     font-weight: bolder;
     color: beige;
-    margin-right: 14vw;
+    margin-right: calc(2rem + 5vmin);
     min-width: calc(50px + 10vmin);
 
     @media screen and (max-width: 900px) {
