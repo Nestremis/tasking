@@ -1,4 +1,5 @@
-An application used to schedule tasks over time.
+An application used to schedule tasks over time similar to Toggle app.
+
 1. Type the name of the task in the input (necessary).
 2. Mark the start date and time and the end date and time of the task on the calendar. 
 3. Create a ticket by clicking +
