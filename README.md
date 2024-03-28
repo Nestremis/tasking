@@ -5,6 +5,8 @@ An application used to schedule tasks over time.
 4. You can remove the ticket by clicking on the X
 5. To see the modal with the details of the task, click on the ticket - full information will then appear. To make the modal disappear simply click on it.
 
+An additional counter shows the total scheduled time.
+
 Application is fully responsive.
 
 You may see the working code: https://nestremis.github.io/tasking/
